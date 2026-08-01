@@ -1,0 +1,14 @@
+pandas==2.2.0
+numpy
+scikit-learn
+xgboost
+lightgbm
+shap
+lifelines
+streamlit
+anthropic
+plotly
+matplotlib
+seaborn
+openpyxl
+python-dotenv
